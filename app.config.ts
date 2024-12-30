@@ -3,7 +3,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 export default defineAppConfig({
   general: {
     // todo make dynamic
-    title: "Directory",
+    title: "Energy Storage Solutions",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -11,9 +11,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Directory",
-    description: "Directory",
-    url: "https://Directory.com",
+    name: "Directory of Energy Storage Solutions",
+    description: "Energy Storage Solutions for Home and Businesses",
+    url: "https://FindEnergyStorage.com",
     favicon: {
       image: "",
       emoji: "",
@@ -98,7 +98,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Directory for finding appropriate businesses, services, and products",
+    description: "Directory for exploring energy storage solutions for homes and businesses",
     // socials: {
     //   github: {
     //     link: "",

@@ -24,7 +24,7 @@ defineProps(['item']);
     </div>
     <div class="p-6">
       <h3 class="m-0 text-lg font-semibold dark:text-gray-50">
-        {{ item.title }} {{ item.card_image }}
+        {{ item.title }}
       </h3>
       <p class="line-clamp-4 mt-2">
         {{ item.description }}
