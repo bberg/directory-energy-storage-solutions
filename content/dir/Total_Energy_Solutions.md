@@ -2,11 +2,11 @@
 featured: false
 invert: false
 card_image: t-logo.png
-description: Specializing in integrating advanced battery energy storage systems into existing infrastructures, this business offers reliable, flexible, and sustainable energy solutions tailored to various sectors.
+description: Regional generator installer who also provides BESS systems and disaster recovery in Texas and Louisiana. 
 ---
 
 # Total Energy Solutions
 <img src="t-logo.png" alt="Logo" style="max-width: 200px; height: auto;">
 
 <a href="https://totalenergysolutions.com/battery-energy-storage-systems/">Visit Website</a>  
-Specializing in integrating advanced battery energy storage systems into existing infrastructures, this business offers reliable, flexible, and sustainable energy solutions tailored to various sectors.
+Regional generator installer who also provides BESS systems and disaster recovery in Texas and Louisiana. 

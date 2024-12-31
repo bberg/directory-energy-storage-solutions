@@ -15,7 +15,6 @@ export default defineNuxtConfig({
     'nuxt-gtag',
   ],
   gtag: {
-    // todo make dynamic
     id: "G-T71BCKS1FK"
   },
 

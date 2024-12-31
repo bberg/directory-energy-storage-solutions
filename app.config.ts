@@ -21,8 +21,8 @@ export default defineAppConfig({
   },
   directory: {
     search: {
-      placeholder: "Search {0} Listings",
-      icon: "tabler:bow",
+      placeholder: "Search {0} Energy Storage Providers",
+      icon: "tabler:battery",
       tags: {
         // options: none,select,show-all,
         display: "none",
@@ -45,7 +45,7 @@ export default defineAppConfig({
       submit: {
         show: false,
         first: false,
-        title: "Submit a template",
+        title: "Submit a company",
         description:
           "Submit a template to show off a good project to other people.",
         hideable: true,
