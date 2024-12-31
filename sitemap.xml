@@ -3,12 +3,6 @@
     <url>
         <loc>https://FindEnergyStorage.com/</loc>
         <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/hero.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/azom_logo_v3.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/04_Y-Cube_Battery_Storage_Solution_Aggreko_Product_Rendering_Perspective.png</image:loc>
         </image:image>
         <image:image>
@@ -18,28 +12,16 @@
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/aesi-screenshot.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/1200px-Overhead_View_of_Tehachapi_Energy_Storage_Project%252C_Tehachapi%252C_CA.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/briggs_logo_large_new.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/CS-LOGO-RED-RGB-NEW-2024-W-TAG-2.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/X_logo_2023_white.png</image:loc>
+            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/cestorage-logo-footer.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/ConcentricLogo-RGB_NoTag_white.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/us-department-of-energy-logo.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/ESS-logo-white-200px-tm.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/enel-enel-green-power-logo.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/ll.png</image:loc>
@@ -57,16 +39,7 @@
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/Honeywell-logo.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/ibm-8bar-logo-2560x2560.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/0x0.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/xOWC-logo.png.pagespeed.ic.Qq2OaLK9NS.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/cropped-logo-180x87.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/powersonicfav.png</image:loc>
@@ -79,9 +52,6 @@
         </image:image>
         <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/csm_SMA-Storage-Solutions_1055x551_df94160176.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/w_800/ess-logo.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/w_800/SE_Logo_White.png</image:loc>
@@ -142,24 +112,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://FindEnergyStorage.com/dir/azom</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/azom_logo_v3.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/azom_logo_v3.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://FindEnergyStorage.com/dir/battery_energy_storage_system</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/1200px-Overhead_View_of_Tehachapi_Energy_Storage_Project%2C_Tehachapi%2C_CA.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/1200px-Overhead_View_of_Tehachapi_Energy_Storage_Project%252C_Tehachapi%252C_CA.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://FindEnergyStorage.com/dir/briggs__stratton</loc>
         <image:image>
             <image:loc>https://FindEnergyStorage.com/briggs_logo_large_new.png</image:loc>
@@ -180,37 +132,10 @@
     <url>
         <loc>https://FindEnergyStorage.com/dir/csi_solar</loc>
         <image:image>
-            <image:loc>https://FindEnergyStorage.com/CS-LOGO-RED-RGB-NEW-2024-W-TAG-2.png</image:loc>
+            <image:loc>https://FindEnergyStorage.com/cestorage-logo-footer.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/CS-LOGO-RED-RGB-NEW-2024-W-TAG-2.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://FindEnergyStorage.com/dir/ct_green_bank</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/X_logo_2023_white.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/X_logo_2023_white.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://FindEnergyStorage.com/dir/department_of_energy</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/us-department-of-energy-logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/us-department-of-energy-logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://FindEnergyStorage.com/dir/enel_green_power</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/enel-enel-green-power-logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/enel-enel-green-power-logo.png</image:loc>
+            <image:loc>https://FindEnergyStorage.com/_ipx/_/cestorage-logo-footer.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -268,33 +193,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://FindEnergyStorage.com/dir/ibm</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/ibm-8bar-logo-2560x2560.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/ibm-8bar-logo-2560x2560.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://FindEnergyStorage.com/dir/mitsubishi_heavy_industries</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/0x0.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/0x0.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://FindEnergyStorage.com/dir/omazaki_group</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/cropped-logo-180x87.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/cropped-logo-180x87.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://FindEnergyStorage.com/dir/owc</loc>
         <image:image>
             <image:loc>https://FindEnergyStorage.com/xOWC-logo.png.pagespeed.ic.Qq2OaLK9NS.png</image:loc>
@@ -328,15 +226,6 @@
         </image:image>
         <image:image>
             <image:loc>https://FindEnergyStorage.com/_ipx/_/OG-batteriespeicher.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://FindEnergyStorage.com/dir/sandia_national_laboratories</loc>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/ess-logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://FindEnergyStorage.com/_ipx/_/ess-logo.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -397,4 +286,4 @@
         <loc>https://FindEnergyStorage.com/legal/terms-of-service</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2024-12-30T12:10:12.172Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2024-12-31T11:58:11.793Z -->
