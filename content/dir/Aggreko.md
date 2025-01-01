@@ -5,11 +5,9 @@ invert: false
 card_image: 04_Y-Cube_Battery_Storage_Solution_Aggreko_Product_Rendering_Perspective.png
 description: Plug-and-play self-contained BESS solution rental at a variety of sizes. One of the fastest options for deploying battery energy storage solutions for commercial and industrial sectors.
 tags: 
- - Battery Energy Storage System
  - Plug and Play
  - Product Manufacturer
  - Commercial Systems
- - Self Containted
  - Rental
 ---
 

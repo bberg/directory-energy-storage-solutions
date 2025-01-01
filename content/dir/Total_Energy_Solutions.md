@@ -7,7 +7,6 @@ description: Regional generator installer who also provides BESS systems and dis
 tags: 
  - Residential Systems
  - Commercial Systems
- - Battery Energy Storage System
 ---
 
 <div align="center">

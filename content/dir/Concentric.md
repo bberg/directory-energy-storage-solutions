@@ -5,7 +5,6 @@ invert: false
 card_image: ConcentricLogo-RGB_NoTag_white.png
 description: Customized BESS solutions with consulting and energy systems operation services.
 tags: 
- - Self Containted
  - Customizable
  - Commercial Systems
 ---

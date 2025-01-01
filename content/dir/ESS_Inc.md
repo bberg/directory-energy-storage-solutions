@@ -6,7 +6,6 @@ card_image: ESS-logo-white-200px-tm.png
 description: BESS systems for enterprise and utilities with a focus on iron battery chemistry and consistent battery output over prolonged times.
 tags: 
  - Design Build
- - Battery Energy Storage System
  - Commercial Systems
  - Enterprise Systems
 ---

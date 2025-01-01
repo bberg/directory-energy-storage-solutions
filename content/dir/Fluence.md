@@ -9,7 +9,6 @@ tags:
  - Commercial Systems
  - Plug and Play
  - Product Manufacturer
- - Battery Energy Storage System
  - Configurable
  - Microgrid
 ---

@@ -6,7 +6,6 @@ card_image: OG-batteriespeicher.png
 description: A fully integrated utility with experience developing and operating renewable energy systems, transmission, distribution, and battery energy storage solutions.
 tags: 
  - Integrated Utility
- - Battery Energy Storage System
  - Enterprise Systems
 ---
 

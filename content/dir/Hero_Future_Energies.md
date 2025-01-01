@@ -5,7 +5,6 @@ invert: false
 card_image: hfe-logo-top.png
 description: Operating primarily in India and the UK, this solar systems developer also has custom BESS development capabilities
 tags: 
- - Battery Energy Storage System
  - Enterprise Systems
  - Renewable Producer Solutions
 ---

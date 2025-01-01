@@ -5,7 +5,6 @@ invert: false
 card_image: xOWC-logo.png.pagespeed.ic.Qq2OaLK9NS.png
 description: Consulting, technical due diligence and owner engineering for BESS and renewable energy solutions.
 tags: 
- - Consulting
 ---
 
 <div align="center">

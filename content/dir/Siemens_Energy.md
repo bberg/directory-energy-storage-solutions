@@ -6,7 +6,6 @@ card_image: SE_Logo_White.png
 description: Offering design and build services to meet complex integrated system needs including BESS solutions.
 tags: 
  - Design Build
- - Battery Energy Storage System
  - Enterprise Systems
 ---
 

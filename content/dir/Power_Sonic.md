@@ -5,8 +5,6 @@ invert: false
 card_image: powersonicfav.png
 description: Offering tailor-made energy storage solutions with advanced smart technologies, this business leverages over 50 years of expertise to support grid resilience and peak demand management, ensuring optimal performance in demanding applications.
 tags: 
- - Battery Energy Storage System
- - Self Containted
  - Commercial Systems
  - Product Manufacturer
 ---

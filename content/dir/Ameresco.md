@@ -8,7 +8,6 @@ tags:
  - System Developer
  - Enterprise Systems
  - Design Build
- - Battery Energy Storage System
 ---
 
 <div align="center">

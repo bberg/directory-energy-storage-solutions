@@ -5,7 +5,6 @@ invert: false
 card_image: w_logo_color_pos_rgb.png
 description: Utility-scale and grid-scale energy turnkey BESS products and software solutions to manage them.
 tags: 
- - Battery Energy Storage System
  - Enterprise Systems
  - Power Management Software
 ---

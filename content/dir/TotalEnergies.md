@@ -7,7 +7,6 @@ description: End-to-end solutions for customer-sited solar, including energy sto
 tags: 
  - Design Build
  - Renewable Producer Solutions
- - Battery Energy Storage System
 ---
 
 <div align="center">

@@ -5,7 +5,6 @@ invert: false
 card_image: Honeywell-logo.png
 description: Customizable and scalable utility-grade BESS system with specialized expertise in industrial automation.
 tags: 
- - Battery Energy Storage System
  - Commercial Systems
  - Enterprise Systems
  - Product Manufacturer
