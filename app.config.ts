@@ -2,8 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    // todo make dynamic
-    title: "Energy Storage Solutions",
+    title: "Find Energy Storage",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -25,7 +24,7 @@ export default defineAppConfig({
       icon: "tabler:battery",
       tags: {
         // options: none,select,show-all,
-        display: "none",
+        display: "select",
         intersection: false,
       },
     },
@@ -58,14 +57,28 @@ export default defineAppConfig({
       labelForCard: "Featured ✨",
     },
     tags: [
-      // { name: "SAAS", color: "blue" },
-      // { name: "dashboard", color: "green" },
-      // { name: "landing-page" },
-      // { name: "toolbox" },
-      // { name: "agency" },
-      // { name: "markdown-based" },
-      // { name: "basics", color: "indigo" },
-    ],
+{"name": "Battery Energy Storage System", "color": "gray"},
+  {"name": "Enterprise Systems", "color": "gray"},
+  {"name": "Renewable Producer Solutions", "color": "gray"},
+  {"name": "Integrated Utility", "color": "gray"},
+  {"name": "Commercial Systems", "color": "gray"},
+  {"name": "Plug and Play", "color": "gray"},
+  {"name": "Product Manufacturer", "color": "gray"},
+  {"name": "Configurable", "color": "gray"},
+  {"name": "Microgrid", "color": "gray"},
+  {"name": "Design Build", "color": "gray"},
+  {"name": "System Developer", "color": "gray"},
+  {"name": "Consulting", "color": "gray"},
+  {"name": "Self Containted", "color": "gray"},
+  {"name": "Battery Inverters", "color": "gray"},
+  {"name": "Residential Systems", "color": "gray"},
+  {"name": "Data Center UPS", "color": "gray"},
+  {"name": "Power Management Software", "color": "gray"},
+  {"name": "Rental", "color": "gray"},
+  {"name": "Gravity Storage", "color": "gray"},
+  {"name": "Hydrogen Storage", "color": "gray"},
+  {"name": "Customizable", "color": "gray"}
+],
     tagPages: {
       title: "Available {0} items:",
       description:

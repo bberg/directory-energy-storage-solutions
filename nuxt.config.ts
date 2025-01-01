@@ -40,9 +40,9 @@ export default defineNuxtConfig({
 
     
     public: {
-      // todo make dynamic
-      posthogPublicKey: "placeholder",
-      posthogHost: 'https://us.i.posthog.com',
+      // todo posthog re-enable
+      // posthogPublicKey: "placeholder",
+      // posthogHost: 'https://us.i.posthog.com',
       mdc: {
         useNuxtImage: true,
       },
@@ -56,7 +56,6 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    // todo make dynamic
     url: "https://FindEnergyStorage.com",
   },
   compatibilityDate: "2024-09-20",
