@@ -1,5 +1,7 @@
 ---
 layout: wide
+title: Compare Battery Energy Storage Solutions (BESS) Providers
+description: Find the best battery energy storage solutions for commercial and utility-scale projects. Compare BESS providers, technologies, and capabilities.
 ---
 <div align="center">
 
