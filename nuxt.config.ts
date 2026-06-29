@@ -56,7 +56,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    url: "https://FindEnergyStorage.com",
+    url: "https://findenergystorage.com",
   },
   compatibilityDate: "2024-09-20",
 });

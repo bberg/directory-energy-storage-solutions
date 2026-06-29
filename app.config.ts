@@ -12,7 +12,7 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: "Directory of Energy Storage Solutions",
     description: "Energy Storage Solutions for Home and Businesses",
-    url: "https://FindEnergyStorage.com",
+    url: "https://findenergystorage.com",
     favicon: {
       image: "",
       emoji: "",
@@ -93,6 +93,8 @@ export default defineAppConfig({
       colorModeSelector: true,
       links: [
         { name: "Directory", to: "/" },
+        { name: "Best Of", to: "/best" },
+        { name: "Compare", to: "/compare" },
         // { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
