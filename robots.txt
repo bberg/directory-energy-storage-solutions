@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: /legal/privacy-policy
 
-Sitemap: https://FindEnergyStorage.com/sitemap.xml
+Sitemap: https://findenergystorage.com/sitemap.xml
 # END nuxt-robots
